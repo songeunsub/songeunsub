@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm a passionate game developer currently studying Game Software at Hoseo University. As the Programming Team Leader for Team Creator (Class of 2025) and a dedicated member of the indie game development team MEST, I'm actively crafting a 3D adventure platformer game that pushes creative boundaries.<br><br>My technical toolkit includes:<br><br>Unity<br><br>Unreal Engine<br><br>Shader Development<br><br>Advanced Graphics<br><br>Graphics Programming
+I'm a passionate game developer currently studying Game Software at Hoseo University.  
+As the Programming Team Leader for Team Creator (Class of 2025) and a dedicated member of the indie game development team MEST, I'm actively crafting a 3D adventure platformer game that pushes creative boundaries.
+
+## 🔧 Technical Toolkit:
+- Unity
+- Unreal Engine
+- Shader Development
+- Advanced Graphics
+- Graphics Programming
+
 
 
 ## 🌐 Socials:
